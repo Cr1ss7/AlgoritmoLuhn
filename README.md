@@ -1,2 +1,2 @@
 # AlgoritmoLuhn
-Algoritmo de Luhn para verificar si una tarjeta es valida a base de C++
+Programa en C++ que ejecuta el Algoritmo de Luhn para verificar que una targeta de credito o debito sea valida.
